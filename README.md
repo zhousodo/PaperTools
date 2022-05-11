@@ -26,6 +26,34 @@
 - https://github.com/sqlmapproject/sqlmap
 - https://github.com/TideSec/WDScanner
 
+## 系统实现软件类
+> 由于工具选用较多，列出主要以下几个
+
+- https://github.com/qianniaoge/F-Scrack
+- https://github.com/shack2/SNETCracker
+- https://github.com/zhaijiahui/IDscan
+- https://github.com/payloadbox/sql-injection-payload-list
+- https://github.com/githubmaidou/tools
+- https://github.com/qianxiao996/FrameScan-GUI
+- https://github.com/We5ter/Scanners-Box
+- https://github.com/HatBoy/Pcap-Analyzer
+- https://github.com/VillanCh/g3ar
+- https://github.com/grayddq/GScan
+- https://github.com/Lucifer1993/PLtools
+- https://github.com/zhousodo/Blasting_dictionary
+- https://github.com/k8gege/Ladon
+- https://github.com/smallcham/sec-admin
+- https://github.com/broken5/WebAliveScan
+- https://github.com/RowTeam/SharpDetectionNTLMSSP
+- https://github.com/shmilylty/OneForAll
+- https://github.com/Tuhinshubhra/CMSeeK
+- https://github.com/maurosoria/dirsearch
+- https://github.com/dionach/CMSmap
+- https://github.com/ds19991999/SecBox
+- ......
+
+## 致敬
+向以上开源工具致以我最崇高的敬意，让我得以完成工作！
 ## 自编程序
 
 目前由于 项目需要 无法全部开源
